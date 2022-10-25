@@ -11,4 +11,8 @@ public class TestController {
     public String goodBye() {
         return "GoodBye Pipeline";
     }
+
+    public String goodBye2() {
+        return "GoodBye2 Pipeline";
+    }
 }
