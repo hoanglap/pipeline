@@ -36,7 +36,7 @@ jobs:
         with:
           image: lapnguyen/pipline-spring-images
           tags:  latest
-          registry: dockerl.io
+          registry: docker.io
           dockerfile: Dockerfile
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
