@@ -7,4 +7,8 @@ public class TestController {
     public String hello() {
         return "Hello Pipeline";
     }
+
+    public String goodBye() {
+        return "GoodBye Pipeline";
+    }
 }

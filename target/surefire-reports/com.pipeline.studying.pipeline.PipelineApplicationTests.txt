@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.pipeline.studying.pipeline.PipelineApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.37 s - in com.pipeline.studying.pipeline.PipelineApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.973 s - in com.pipeline.studying.pipeline.PipelineApplicationTests
